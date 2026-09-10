@@ -1,0 +1,28 @@
+﻿{
+  "budgie.idle": {
+    "sounds": [
+      "budgies:budgie_idle",
+      "budgies:budgie_idle_2",
+      "budgies:budgie_idle_3"
+    ],
+    "subtitle": "subtitles.budgies.idle"
+  },
+  "budgie.calling": {
+    "sounds": [
+      "budgies:budgie_calling"
+    ],
+    "subtitle": "subtitles.budgies.calling"
+  },
+  "budgie.answering": {
+    "sounds": [
+      "budgies:budgie_answering"
+    ],
+    "subtitle": "subtitles.budgies.answering"
+  },
+  "budgie.sleeping": {
+    "sounds": [
+      "budgies:budgie_sleeping"
+    ],
+    "subtitle": "subtitles.budgies.sleeping"
+  }
+}

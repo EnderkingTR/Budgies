@@ -1,0 +1,8 @@
+﻿{
+  "entity.budgies.budgie": "Budgie",
+  "item.budgies.budgie_spawn_egg": "Budgie Spawn Egg",
+  "subtitles.budgies.idle": "Budgie chirps",
+  "subtitles.budgies.calling": "Budgie calls out",
+  "subtitles.budgies.answering": "Budgie answers",
+  "subtitles.budgies.sleeping": "Budgie sleeps"
+}

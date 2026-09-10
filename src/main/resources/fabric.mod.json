@@ -1,0 +1,39 @@
+{
+	"schemaVersion": 1,
+	"id": "budgies",
+	"version": "${version}",
+	"name": "BUDGIES!",
+	"description": "Adds Budgies (parakeets) to Minecraft! These colorful birds spawn in forests, communicate with each other, and can be tamed.",
+	"authors": [
+		"nadir"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/budgies/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.nadir.budgies.BUDGIES"
+		],
+		"client": [
+			"com.nadir.budgies.client.BUDGIESClient"
+		]
+	},
+	"mixins": [
+		"budgies.mixins.json",
+		{
+			"config": "budgies.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*",
+		"geckolib": "*"
+	}
+}
