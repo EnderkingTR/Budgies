@@ -4,7 +4,7 @@
 
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.21.1-brightgreen?style=flat-square)](https://minecraft.net)
 [![Fabric](https://img.shields.io/badge/Mod%20Loader-Fabric-blue?style=flat-square)](https://fabricmc.net)
-[![License](https://img.shields.io/badge/License-CC0--1.0-lightgrey?style=flat-square)](LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)](LICENSE)
 [![GeckoLib](https://img.shields.io/badge/Requires-GeckoLib-orange?style=flat-square)](https://github.com/bernie-g/geckolib)
 
 ---
@@ -137,7 +137,7 @@ When porting to a new MC version or mod loader, update these values and the outp
 
 ## 📄 License
 
-This project is released under the **CC0-1.0** license — see [LICENSE](LICENSE) for details.
+This project is released under the **MIT License** — see [LICENSE](LICENSE) for details.
 
 ---
 
